@@ -7,7 +7,7 @@ Seuqencer Js Provides sequential execution of javascript functions. It lets you 
 
 Licensed under GNU Lesser General Public License v2.1
 
-(Usage)
+Usage
 
 ```html
  var s=Sequencer.getSequence("user-registration");
