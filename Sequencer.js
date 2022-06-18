@@ -8,6 +8,8 @@
  
  The library allows to execute serial of activities using fire mechanism.
  
+ Licensed under 
+ GNU Lesser General Public License v2.1
  
  
  var s=Sequencer.getSequence("user-registration");
