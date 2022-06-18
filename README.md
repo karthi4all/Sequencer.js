@@ -2,7 +2,7 @@
 Seuqencer Js Provides sequential execution of javascript functions. It lets you execute stages of tasks & meanwhile you can track success or failures and retry them specifically to complete the stages succesfully.
 
 
-<a href="https://www.patreon.com/bePatron?u=75135416" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<a href="https://www.patreon.com/bePatron?u=75135416" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
 
 
 Licensed under GNU Lesser General Public License v2.1
