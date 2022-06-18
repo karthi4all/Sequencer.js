@@ -11,7 +11,7 @@
  Licensed under 
  GNU Lesser General Public License v2.1
  
- 
+ #Usage
  var s=Sequencer.getSequence("user-registration");
  
  
@@ -35,8 +35,8 @@ Todo:
 5. auto increment stagenumber
 
 
-Advanced feature:
-stage graphign
+Todo Advanced feature:
+stage graphing
 
  */
 
